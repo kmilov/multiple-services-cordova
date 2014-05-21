@@ -7,7 +7,8 @@ Install.
 2. Add the Background service plugin to the project with
 	cordova plugin add https://github.com/Red-Folder/bgs-core.git
 
-3. Place the MyService Java Classes under the package name package com.red_folder.phonegap.plugin.backgroundservice.services;
+3. Place the MyService Java Classes under the package name 
+	com.red_folder.phonegap.plugin.backgroundservice.services;
 
 4. Activate services on AndroidManifest.xml inside the <application> </applicatoin> tag
 	 <service android:name="com.red_folder.phonegap.plugin.backgroundservice.services.MyService1">
