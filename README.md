@@ -17,4 +17,4 @@ Install.
         </intent-filter>
     </service>
 5. Place the javascript logic inside the www/index.js file (This file exists for the sample HelloWorld app from Cordova)
-6t. Check LogCat and search for the tag MyService, you  should see the logs for the MyService1 and MyService2
+6. Check LogCat and search for the tag MyService, you  should see the logs for the MyService1 and MyService2
